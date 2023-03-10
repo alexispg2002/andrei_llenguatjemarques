@@ -1,0 +1,8 @@
+-classpath '/home/alepragal/IdeaProjects/MyStringUtils/build/classes/java/main:/home/alepragal/IdeaProjects/MyStringUtils/build/resources/main'
+-d '/home/alepragal/IdeaProjects/MyStringUtils/build/docs/javadoc'
+-doctitle 'MyStringUtils 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'MyStringUtils 1.0-SNAPSHOT API'
+'/home/alepragal/IdeaProjects/MyStringUtils/src/main/java/org/example/Main.java'
+'/home/alepragal/IdeaProjects/MyStringUtils/src/main/java/org/example/RafaStrings.java'
